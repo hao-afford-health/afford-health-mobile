@@ -1,0 +1,22 @@
+export const supportedFiles = {
+  "application/epub+zip": ".epub",
+  "application/json": ".json",
+  "application/msword": ".doc",
+  "application/pdf": ".pdf",
+  "application/rtf": ".rtf",
+  "application/vnd.ms-outlook": ".msg",
+  "application/vnd.oasis.opendocument.text": ".odt",
+  "application/vnd.openxmlformats-officedocument.presentationml.presentation": ".pptx",
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": ".xlsx",
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx",
+  "application/xml": ".xml",
+  "image/jpeg": ".jpg",
+  "image/png": ".png",
+  "message/rfc822": ".eml",
+  "text/csv": ".csv",
+  "text/html": ".html",
+  "text/markdown": ".md",
+  "text/plain": ".txt",
+  "text/tab-separated-values": ".tsv",
+  "text/x-rst": ".rst"
+}

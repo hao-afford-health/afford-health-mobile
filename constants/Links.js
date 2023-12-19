@@ -1,0 +1,1 @@
+export const APIURL = 'https://afford-health-be.onrender.com/api';
